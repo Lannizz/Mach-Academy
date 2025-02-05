@@ -1,0 +1,36 @@
+Paulo
+paulo@gmail.com
+1234
+https://www.geradordecpf.org/
+07/11/2001
+. perfil
+Fundamentos de Lógica de Programação
+Lógica de programação básica
+.. thumb
+Introdução
+Introdução 1
+... video
+
+Maria
+maria@gmail.com
+1234
+https://www.geradordecpf.org/
+04/07/1987
+. perfil
+.. curriculo
+Tradução: Introdução 1
+... tradução
+
+admin@gmail
+admin
+https://youtu.be/iF2MdbrTiBM
+
+Claudia
+claudia@gmail.com
+1234
+12/03/1995
+.
+https://www.4devs.com.br/gerador_de_numero_cartao_credito
+
+
+
