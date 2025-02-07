@@ -11,7 +11,7 @@
 <body>
     <section class="login-main">
     <section class = "login-esquerda">
-        <h1>Bem vindo de volta!</h1>
+        <h1>Bem vindee de volta!</h1>
         <img class="imagem-login-esquerda" src="../../Images/Login/flying-bird-animate.svg" alt="bird">
     </section>
     <section class="login-direita">
