@@ -14,7 +14,6 @@ Muitas plataformas de EAD negligenciam o acesso pleno de pessoas surdas, oferece
 
 - Apresenta **conteúdo didático com vídeos traduzidos em LIBRAS**;
 - Prioriza a **acessibilidade digital com interfaces visuais** e navegação intuitiva;
-- Oferece **certificação de cursos profissionalizantes**, inserindo o aluno no mercado de trabalho;
 - Estimula a geração de empregos com a **contratação de intérpretes de LIBRAS**.
 
 ---
