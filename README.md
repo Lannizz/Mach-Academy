@@ -32,7 +32,6 @@ Muitas plataformas de EAD negligenciam o acesso pleno de pessoas surdas, oferece
 - Cadastro de usuários
 - Listagem e visualização de cursos
 - Vídeos com tradução em LIBRAS
-- Emissão de certificados
 - Área de login e administração
 - Design focado em acessibilidade
 
